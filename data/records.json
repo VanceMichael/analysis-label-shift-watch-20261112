@@ -1,0 +1,965 @@
+{
+  "version": 1,
+  "records": [
+    {
+      "sample": "s0",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.09090909090909091,
+      "scoreB": 0.9090909090909091,
+      "visible": 1,
+      "classifier": "f1",
+      "id": "r0000"
+    },
+    {
+      "sample": "s1",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.18181818181818182,
+      "scoreB": 0.8181818181818181,
+      "visible": 1,
+      "classifier": "f1",
+      "id": "r0001"
+    },
+    {
+      "sample": "s2",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.2727272727272727,
+      "scoreB": 0.7272727272727273,
+      "visible": 1,
+      "classifier": "f1",
+      "id": "r0002"
+    },
+    {
+      "sample": "s3",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.36363636363636365,
+      "scoreB": 0.6363636363636364,
+      "visible": 1,
+      "classifier": "f1",
+      "id": "r0003"
+    },
+    {
+      "sample": "s4",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.45454545454545453,
+      "scoreB": 0.5454545454545454,
+      "visible": 1,
+      "classifier": "f1",
+      "id": "r0004"
+    },
+    {
+      "sample": "s5",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.5454545454545454,
+      "scoreB": 0.4545454545454546,
+      "visible": 1,
+      "classifier": "f1",
+      "id": "r0005"
+    },
+    {
+      "sample": "s6",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.6363636363636364,
+      "scoreB": 0.36363636363636365,
+      "visible": 1,
+      "classifier": "f1",
+      "id": "r0006"
+    },
+    {
+      "sample": "s7",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.7272727272727273,
+      "scoreB": 0.2727272727272727,
+      "visible": 1,
+      "classifier": "f1",
+      "id": "r0007"
+    },
+    {
+      "sample": "s8",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.8181818181818182,
+      "scoreB": 0.18181818181818177,
+      "visible": 1,
+      "classifier": "f1",
+      "id": "r0008"
+    },
+    {
+      "sample": "s9",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.09090909090909091,
+      "scoreB": 0.9090909090909091,
+      "visible": 1,
+      "classifier": "f1",
+      "id": "r0009"
+    },
+    {
+      "sample": "s10",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.18181818181818182,
+      "scoreB": 0.8181818181818181,
+      "visible": 1,
+      "classifier": "f1",
+      "id": "r0010"
+    },
+    {
+      "sample": "s11",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.2727272727272727,
+      "scoreB": 0.7272727272727273,
+      "visible": 1,
+      "classifier": "f1",
+      "id": "r0011"
+    },
+    {
+      "sample": "s12",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.36363636363636365,
+      "scoreB": 0.6363636363636364,
+      "visible": 2,
+      "classifier": "f1",
+      "id": "r0012"
+    },
+    {
+      "sample": "s13",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.45454545454545453,
+      "scoreB": 0.5454545454545454,
+      "visible": 2,
+      "classifier": "f1",
+      "id": "r0013"
+    },
+    {
+      "sample": "s14",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.5454545454545454,
+      "scoreB": 0.4545454545454546,
+      "visible": 2,
+      "classifier": "f1",
+      "id": "r0014"
+    },
+    {
+      "sample": "s15",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.6363636363636364,
+      "scoreB": 0.36363636363636365,
+      "visible": 2,
+      "classifier": "f1",
+      "id": "r0015"
+    },
+    {
+      "sample": "s16",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.7272727272727273,
+      "scoreB": 0.2727272727272727,
+      "visible": 2,
+      "classifier": "f1",
+      "id": "r0016"
+    },
+    {
+      "sample": "s17",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.8181818181818182,
+      "scoreB": 0.18181818181818177,
+      "visible": 2,
+      "classifier": "f1",
+      "id": "r0017"
+    },
+    {
+      "sample": "s18",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.09090909090909091,
+      "scoreB": 0.9090909090909091,
+      "visible": 2,
+      "classifier": "f1",
+      "id": "r0018"
+    },
+    {
+      "sample": "s19",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.18181818181818182,
+      "scoreB": 0.8181818181818181,
+      "visible": 2,
+      "classifier": "f1",
+      "id": "r0019"
+    },
+    {
+      "sample": "s20",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.2727272727272727,
+      "scoreB": 0.7272727272727273,
+      "visible": 2,
+      "classifier": "f1",
+      "id": "r0020"
+    },
+    {
+      "sample": "s21",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.36363636363636365,
+      "scoreB": 0.6363636363636364,
+      "visible": 2,
+      "classifier": "f1",
+      "id": "r0021"
+    },
+    {
+      "sample": "s22",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.45454545454545453,
+      "scoreB": 0.5454545454545454,
+      "visible": 2,
+      "classifier": "f1",
+      "id": "r0022"
+    },
+    {
+      "sample": "s23",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.5454545454545454,
+      "scoreB": 0.4545454545454546,
+      "visible": 2,
+      "classifier": "f1",
+      "id": "r0023"
+    },
+    {
+      "sample": "s24",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.6363636363636364,
+      "scoreB": 0.36363636363636365,
+      "visible": 3,
+      "classifier": "f1",
+      "id": "r0024"
+    },
+    {
+      "sample": "s25",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.7272727272727273,
+      "scoreB": 0.2727272727272727,
+      "visible": 3,
+      "classifier": "f1",
+      "id": "r0025"
+    },
+    {
+      "sample": "s26",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.8181818181818182,
+      "scoreB": 0.18181818181818177,
+      "visible": 3,
+      "classifier": "f1",
+      "id": "r0026"
+    },
+    {
+      "sample": "s27",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.09090909090909091,
+      "scoreB": 0.9090909090909091,
+      "visible": 3,
+      "classifier": "f1",
+      "id": "r0027"
+    },
+    {
+      "sample": "s28",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.18181818181818182,
+      "scoreB": 0.8181818181818181,
+      "visible": 3,
+      "classifier": "f1",
+      "id": "r0028"
+    },
+    {
+      "sample": "s29",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.2727272727272727,
+      "scoreB": 0.7272727272727273,
+      "visible": 3,
+      "classifier": "f1",
+      "id": "r0029"
+    },
+    {
+      "sample": "s30",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.36363636363636365,
+      "scoreB": 0.6363636363636364,
+      "visible": 3,
+      "classifier": "f1",
+      "id": "r0030"
+    },
+    {
+      "sample": "s31",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.45454545454545453,
+      "scoreB": 0.5454545454545454,
+      "visible": 3,
+      "classifier": "f1",
+      "id": "r0031"
+    },
+    {
+      "sample": "s32",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.5454545454545454,
+      "scoreB": 0.4545454545454546,
+      "visible": 3,
+      "classifier": "f1",
+      "id": "r0032"
+    },
+    {
+      "sample": "s33",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.6363636363636364,
+      "scoreB": 0.36363636363636365,
+      "visible": 3,
+      "classifier": "f1",
+      "id": "r0033"
+    },
+    {
+      "sample": "s34",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.7272727272727273,
+      "scoreB": 0.2727272727272727,
+      "visible": 3,
+      "classifier": "f1",
+      "id": "r0034"
+    },
+    {
+      "sample": "s35",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.8181818181818182,
+      "scoreB": 0.18181818181818177,
+      "visible": 3,
+      "classifier": "f1",
+      "id": "r0035"
+    },
+    {
+      "sample": "s36",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.09090909090909091,
+      "scoreB": 0.9090909090909091,
+      "visible": 4,
+      "classifier": "f1",
+      "id": "r0036"
+    },
+    {
+      "sample": "s37",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.18181818181818182,
+      "scoreB": 0.8181818181818181,
+      "visible": 4,
+      "classifier": "f1",
+      "id": "r0037"
+    },
+    {
+      "sample": "s38",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.2727272727272727,
+      "scoreB": 0.7272727272727273,
+      "visible": 4,
+      "classifier": "f1",
+      "id": "r0038"
+    },
+    {
+      "sample": "s39",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.36363636363636365,
+      "scoreB": 0.6363636363636364,
+      "visible": 4,
+      "classifier": "f1",
+      "id": "r0039"
+    },
+    {
+      "sample": "s40",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.45454545454545453,
+      "scoreB": 0.5454545454545454,
+      "visible": 4,
+      "classifier": "f1",
+      "id": "r0040"
+    },
+    {
+      "sample": "s41",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.5454545454545454,
+      "scoreB": 0.4545454545454546,
+      "visible": 4,
+      "classifier": "f1",
+      "id": "r0041"
+    },
+    {
+      "sample": "s42",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.6363636363636364,
+      "scoreB": 0.36363636363636365,
+      "visible": 4,
+      "classifier": "f1",
+      "id": "r0042"
+    },
+    {
+      "sample": "s43",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.7272727272727273,
+      "scoreB": 0.2727272727272727,
+      "visible": 4,
+      "classifier": "f1",
+      "id": "r0043"
+    },
+    {
+      "sample": "s44",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.8181818181818182,
+      "scoreB": 0.18181818181818177,
+      "visible": 4,
+      "classifier": "f1",
+      "id": "r0044"
+    },
+    {
+      "sample": "s45",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.09090909090909091,
+      "scoreB": 0.9090909090909091,
+      "visible": 4,
+      "classifier": "f1",
+      "id": "r0045"
+    },
+    {
+      "sample": "s46",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.18181818181818182,
+      "scoreB": 0.8181818181818181,
+      "visible": 4,
+      "classifier": "f1",
+      "id": "r0046"
+    },
+    {
+      "sample": "s47",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.2727272727272727,
+      "scoreB": 0.7272727272727273,
+      "visible": 4,
+      "classifier": "f1",
+      "id": "r0047"
+    },
+    {
+      "sample": "s48",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.36363636363636365,
+      "scoreB": 0.6363636363636364,
+      "visible": 5,
+      "classifier": "f1",
+      "id": "r0048"
+    },
+    {
+      "sample": "s49",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.45454545454545453,
+      "scoreB": 0.5454545454545454,
+      "visible": 5,
+      "classifier": "f1",
+      "id": "r0049"
+    },
+    {
+      "sample": "s50",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.5454545454545454,
+      "scoreB": 0.4545454545454546,
+      "visible": 5,
+      "classifier": "f1",
+      "id": "r0050"
+    },
+    {
+      "sample": "s51",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.6363636363636364,
+      "scoreB": 0.36363636363636365,
+      "visible": 5,
+      "classifier": "f1",
+      "id": "r0051"
+    },
+    {
+      "sample": "s52",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.7272727272727273,
+      "scoreB": 0.2727272727272727,
+      "visible": 5,
+      "classifier": "f1",
+      "id": "r0052"
+    },
+    {
+      "sample": "s53",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.8181818181818182,
+      "scoreB": 0.18181818181818177,
+      "visible": 5,
+      "classifier": "f1",
+      "id": "r0053"
+    },
+    {
+      "sample": "s54",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.09090909090909091,
+      "scoreB": 0.9090909090909091,
+      "visible": 5,
+      "classifier": "f1",
+      "id": "r0054"
+    },
+    {
+      "sample": "s55",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.18181818181818182,
+      "scoreB": 0.8181818181818181,
+      "visible": 5,
+      "classifier": "f1",
+      "id": "r0055"
+    },
+    {
+      "sample": "s56",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.2727272727272727,
+      "scoreB": 0.7272727272727273,
+      "visible": 5,
+      "classifier": "f1",
+      "id": "r0056"
+    },
+    {
+      "sample": "s57",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.36363636363636365,
+      "scoreB": 0.6363636363636364,
+      "visible": 5,
+      "classifier": "f1",
+      "id": "r0057"
+    },
+    {
+      "sample": "s58",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.45454545454545453,
+      "scoreB": 0.5454545454545454,
+      "visible": 5,
+      "classifier": "f1",
+      "id": "r0058"
+    },
+    {
+      "sample": "s59",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.5454545454545454,
+      "scoreB": 0.4545454545454546,
+      "visible": 5,
+      "classifier": "f1",
+      "id": "r0059"
+    },
+    {
+      "sample": "s60",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.6363636363636364,
+      "scoreB": 0.36363636363636365,
+      "visible": 6,
+      "classifier": "f1",
+      "id": "r0060"
+    },
+    {
+      "sample": "s61",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.7272727272727273,
+      "scoreB": 0.2727272727272727,
+      "visible": 6,
+      "classifier": "f1",
+      "id": "r0061"
+    },
+    {
+      "sample": "s62",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.8181818181818182,
+      "scoreB": 0.18181818181818177,
+      "visible": 6,
+      "classifier": "f1",
+      "id": "r0062"
+    },
+    {
+      "sample": "s63",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.09090909090909091,
+      "scoreB": 0.9090909090909091,
+      "visible": 6,
+      "classifier": "f1",
+      "id": "r0063"
+    },
+    {
+      "sample": "s64",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.18181818181818182,
+      "scoreB": 0.8181818181818181,
+      "visible": 6,
+      "classifier": "f1",
+      "id": "r0064"
+    },
+    {
+      "sample": "s65",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.2727272727272727,
+      "scoreB": 0.7272727272727273,
+      "visible": 6,
+      "classifier": "f1",
+      "id": "r0065"
+    },
+    {
+      "sample": "s66",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.36363636363636365,
+      "scoreB": 0.6363636363636364,
+      "visible": 6,
+      "classifier": "f1",
+      "id": "r0066"
+    },
+    {
+      "sample": "s67",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.45454545454545453,
+      "scoreB": 0.5454545454545454,
+      "visible": 6,
+      "classifier": "f1",
+      "id": "r0067"
+    },
+    {
+      "sample": "s68",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.5454545454545454,
+      "scoreB": 0.4545454545454546,
+      "visible": 6,
+      "classifier": "f1",
+      "id": "r0068"
+    },
+    {
+      "sample": "s69",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.6363636363636364,
+      "scoreB": 0.36363636363636365,
+      "visible": 6,
+      "classifier": "f1",
+      "id": "r0069"
+    },
+    {
+      "sample": "s70",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.7272727272727273,
+      "scoreB": 0.2727272727272727,
+      "visible": 6,
+      "classifier": "f1",
+      "id": "r0070"
+    },
+    {
+      "sample": "s71",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.8181818181818182,
+      "scoreB": 0.18181818181818177,
+      "visible": 6,
+      "classifier": "f1",
+      "id": "r0071"
+    },
+    {
+      "sample": "s72",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.09090909090909091,
+      "scoreB": 0.9090909090909091,
+      "visible": 7,
+      "classifier": "f1",
+      "id": "r0072"
+    },
+    {
+      "sample": "s73",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.18181818181818182,
+      "scoreB": 0.8181818181818181,
+      "visible": 7,
+      "classifier": "f1",
+      "id": "r0073"
+    },
+    {
+      "sample": "s74",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.2727272727272727,
+      "scoreB": 0.7272727272727273,
+      "visible": 7,
+      "classifier": "f1",
+      "id": "r0074"
+    },
+    {
+      "sample": "s75",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.36363636363636365,
+      "scoreB": 0.6363636363636364,
+      "visible": 7,
+      "classifier": "f1",
+      "id": "r0075"
+    },
+    {
+      "sample": "s76",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.45454545454545453,
+      "scoreB": 0.5454545454545454,
+      "visible": 7,
+      "classifier": "f1",
+      "id": "r0076"
+    },
+    {
+      "sample": "s77",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.5454545454545454,
+      "scoreB": 0.4545454545454546,
+      "visible": 7,
+      "classifier": "f1",
+      "id": "r0077"
+    },
+    {
+      "sample": "s78",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.6363636363636364,
+      "scoreB": 0.36363636363636365,
+      "visible": 7,
+      "classifier": "f1",
+      "id": "r0078"
+    },
+    {
+      "sample": "s79",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.7272727272727273,
+      "scoreB": 0.2727272727272727,
+      "visible": 7,
+      "classifier": "f1",
+      "id": "r0079"
+    },
+    {
+      "sample": "s80",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.8181818181818182,
+      "scoreB": 0.18181818181818177,
+      "visible": 7,
+      "classifier": "f1",
+      "id": "r0080"
+    },
+    {
+      "sample": "s81",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.09090909090909091,
+      "scoreB": 0.9090909090909091,
+      "visible": 7,
+      "classifier": "f1",
+      "id": "r0081"
+    },
+    {
+      "sample": "s82",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.18181818181818182,
+      "scoreB": 0.8181818181818181,
+      "visible": 7,
+      "classifier": "f1",
+      "id": "r0082"
+    },
+    {
+      "sample": "s83",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.2727272727272727,
+      "scoreB": 0.7272727272727273,
+      "visible": 7,
+      "classifier": "f1",
+      "id": "r0083"
+    },
+    {
+      "sample": "s84",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.36363636363636365,
+      "scoreB": 0.6363636363636364,
+      "visible": 8,
+      "classifier": "f1",
+      "id": "r0084"
+    },
+    {
+      "sample": "s85",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.45454545454545453,
+      "scoreB": 0.5454545454545454,
+      "visible": 8,
+      "classifier": "f1",
+      "id": "r0085"
+    },
+    {
+      "sample": "s86",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.5454545454545454,
+      "scoreB": 0.4545454545454546,
+      "visible": 8,
+      "classifier": "f1",
+      "id": "r0086"
+    },
+    {
+      "sample": "s87",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.6363636363636364,
+      "scoreB": 0.36363636363636365,
+      "visible": 8,
+      "classifier": "f1",
+      "id": "r0087"
+    },
+    {
+      "sample": "s88",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.7272727272727273,
+      "scoreB": 0.2727272727272727,
+      "visible": 8,
+      "classifier": "f1",
+      "id": "r0088"
+    },
+    {
+      "sample": "s89",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.8181818181818182,
+      "scoreB": 0.18181818181818177,
+      "visible": 8,
+      "classifier": "f1",
+      "id": "r0089"
+    },
+    {
+      "sample": "s90",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.09090909090909091,
+      "scoreB": 0.9090909090909091,
+      "visible": 8,
+      "classifier": "f1",
+      "id": "r0090"
+    },
+    {
+      "sample": "s91",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.18181818181818182,
+      "scoreB": 0.8181818181818181,
+      "visible": 8,
+      "classifier": "f1",
+      "id": "r0091"
+    },
+    {
+      "sample": "s92",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.2727272727272727,
+      "scoreB": 0.7272727272727273,
+      "visible": 8,
+      "classifier": "f1",
+      "id": "r0092"
+    },
+    {
+      "sample": "s93",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.36363636363636365,
+      "scoreB": 0.6363636363636364,
+      "visible": 8,
+      "classifier": "f1",
+      "id": "r0093"
+    },
+    {
+      "sample": "s94",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.45454545454545453,
+      "scoreB": 0.5454545454545454,
+      "visible": 8,
+      "classifier": "f1",
+      "id": "r0094"
+    },
+    {
+      "sample": "s95",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.5454545454545454,
+      "scoreB": 0.4545454545454546,
+      "visible": 8,
+      "classifier": "f1",
+      "id": "r0095"
+    }
+  ]
+}

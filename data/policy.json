@@ -1,0 +1,10 @@
+{
+  "classes": [
+    "A",
+    "B"
+  ],
+  "asOf": 20,
+  "classifier": "f1",
+  "conditionLimit": 1000,
+  "seed": 17
+}
