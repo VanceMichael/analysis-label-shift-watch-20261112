@@ -1,0 +1,792 @@
+{
+  "asOf": 20,
+  "assumptions": {
+    "accuracyClaim": false,
+    "accuracyNote": "目标批次没有可用真值；校正只改变类别比例与分数的相对权重，不构成准确率提高的证据。",
+    "classOrder": [
+      "A",
+      "B"
+    ],
+    "frozenClassifier": "f1",
+    "labelShiftOnly": true,
+    "reviewUsedForTuning": false,
+    "scoreVectorsInterpretedAs": "冻结分类器输出的软后验分数",
+    "sourceLabelsUsedFor": "估计混淆/软混淆算子",
+    "statement": "只假设 p(score|class) 在源地区与目标地区保持不变、类别先验可以变化；不假设任意协变量迁移。",
+    "targetLabelsUsed": false,
+    "targetScoresUsedFor": "目标分数边缘分布",
+    "trainingSeparate": true
+  },
+  "classOrder": [
+    "A",
+    "B"
+  ],
+  "correction": {
+    "appliedWeights": {
+      "A": 1.078857142857,
+      "B": 0.914285714286
+    },
+    "archive": [
+      {
+        "corrected": {
+          "A": 0.402730375427,
+          "B": 0.597269624573
+        },
+        "id": "r0048",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.363636363636,
+          "B": 0.636363636364
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.495798319328,
+          "B": 0.504201680672
+        },
+        "id": "r0049",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.454545454545,
+          "B": 0.545454545455
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.586092715232,
+          "B": 0.413907284768
+        },
+        "id": "r0050",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.545454545455,
+          "B": 0.454545454545
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.673735725938,
+          "B": 0.326264274062
+        },
+        "id": "r0051",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.636363636364,
+          "B": 0.363636363636
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.75884244373,
+          "B": 0.24115755627
+        },
+        "id": "r0052",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.727272727273,
+          "B": 0.272727272727
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.841521394612,
+          "B": 0.158478605388
+        },
+        "id": "r0053",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.818181818182,
+          "B": 0.181818181818
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.105545617174,
+          "B": 0.894454382826
+        },
+        "id": "r0054",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.090909090909,
+          "B": 0.909090909091
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.207746478873,
+          "B": 0.792253521127
+        },
+        "id": "r0055",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.181818181818,
+          "B": 0.818181818182
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.306759098787,
+          "B": 0.693240901213
+        },
+        "id": "r0056",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.272727272727,
+          "B": 0.727272727273
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.402730375427,
+          "B": 0.597269624573
+        },
+        "id": "r0057",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.363636363636,
+          "B": 0.636363636364
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.495798319328,
+          "B": 0.504201680672
+        },
+        "id": "r0058",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.454545454545,
+          "B": 0.545454545455
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.586092715232,
+          "B": 0.413907284768
+        },
+        "id": "r0059",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.545454545455,
+          "B": 0.454545454545
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.673735725938,
+          "B": 0.326264274062
+        },
+        "id": "r0060",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.636363636364,
+          "B": 0.363636363636
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.75884244373,
+          "B": 0.24115755627
+        },
+        "id": "r0061",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.727272727273,
+          "B": 0.272727272727
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.841521394612,
+          "B": 0.158478605388
+        },
+        "id": "r0062",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.818181818182,
+          "B": 0.181818181818
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.105545617174,
+          "B": 0.894454382826
+        },
+        "id": "r0063",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.090909090909,
+          "B": 0.909090909091
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.207746478873,
+          "B": 0.792253521127
+        },
+        "id": "r0064",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.181818181818,
+          "B": 0.818181818182
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.306759098787,
+          "B": 0.693240901213
+        },
+        "id": "r0065",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.272727272727,
+          "B": 0.727272727273
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.402730375427,
+          "B": 0.597269624573
+        },
+        "id": "r0066",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.363636363636,
+          "B": 0.636363636364
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.495798319328,
+          "B": 0.504201680672
+        },
+        "id": "r0067",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.454545454545,
+          "B": 0.545454545455
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.586092715232,
+          "B": 0.413907284768
+        },
+        "id": "r0068",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.545454545455,
+          "B": 0.454545454545
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.673735725938,
+          "B": 0.326264274062
+        },
+        "id": "r0069",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.636363636364,
+          "B": 0.363636363636
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.75884244373,
+          "B": 0.24115755627
+        },
+        "id": "r0070",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.727272727273,
+          "B": 0.272727272727
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.841521394612,
+          "B": 0.158478605388
+        },
+        "id": "r0071",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.818181818182,
+          "B": 0.181818181818
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.105545617174,
+          "B": 0.894454382826
+        },
+        "id": "r0072",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.090909090909,
+          "B": 0.909090909091
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.207746478873,
+          "B": 0.792253521127
+        },
+        "id": "r0073",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.181818181818,
+          "B": 0.818181818182
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.306759098787,
+          "B": 0.693240901213
+        },
+        "id": "r0074",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.272727272727,
+          "B": 0.727272727273
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.402730375427,
+          "B": 0.597269624573
+        },
+        "id": "r0075",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.363636363636,
+          "B": 0.636363636364
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.495798319328,
+          "B": 0.504201680672
+        },
+        "id": "r0076",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.454545454545,
+          "B": 0.545454545455
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.586092715232,
+          "B": 0.413907284768
+        },
+        "id": "r0077",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.545454545455,
+          "B": 0.454545454545
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.673735725938,
+          "B": 0.326264274062
+        },
+        "id": "r0078",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.636363636364,
+          "B": 0.363636363636
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.75884244373,
+          "B": 0.24115755627
+        },
+        "id": "r0079",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.727272727273,
+          "B": 0.272727272727
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.841521394612,
+          "B": 0.158478605388
+        },
+        "id": "r0080",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.818181818182,
+          "B": 0.181818181818
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.105545617174,
+          "B": 0.894454382826
+        },
+        "id": "r0081",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.090909090909,
+          "B": 0.909090909091
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.207746478873,
+          "B": 0.792253521127
+        },
+        "id": "r0082",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.181818181818,
+          "B": 0.818181818182
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.306759098787,
+          "B": 0.693240901213
+        },
+        "id": "r0083",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.272727272727,
+          "B": 0.727272727273
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.402730375427,
+          "B": 0.597269624573
+        },
+        "id": "r0084",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.363636363636,
+          "B": 0.636363636364
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.495798319328,
+          "B": 0.504201680672
+        },
+        "id": "r0085",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.454545454545,
+          "B": 0.545454545455
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.586092715232,
+          "B": 0.413907284768
+        },
+        "id": "r0086",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.545454545455,
+          "B": 0.454545454545
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.673735725938,
+          "B": 0.326264274062
+        },
+        "id": "r0087",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.636363636364,
+          "B": 0.363636363636
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.75884244373,
+          "B": 0.24115755627
+        },
+        "id": "r0088",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.727272727273,
+          "B": 0.272727272727
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.841521394612,
+          "B": 0.158478605388
+        },
+        "id": "r0089",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.818181818182,
+          "B": 0.181818181818
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.105545617174,
+          "B": 0.894454382826
+        },
+        "id": "r0090",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.090909090909,
+          "B": 0.909090909091
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.207746478873,
+          "B": 0.792253521127
+        },
+        "id": "r0091",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.181818181818,
+          "B": 0.818181818182
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.306759098787,
+          "B": 0.693240901213
+        },
+        "id": "r0092",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.272727272727,
+          "B": 0.727272727273
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.402730375427,
+          "B": 0.597269624573
+        },
+        "id": "r0093",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.363636363636,
+          "B": 0.636363636364
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.495798319328,
+          "B": 0.504201680672
+        },
+        "id": "r0094",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.454545454545,
+          "B": 0.545454545455
+        }
+      },
+      {
+        "corrected": {
+          "A": 0.586092715232,
+          "B": 0.413907284768
+        },
+        "id": "r0095",
+        "identityFallback": false,
+        "uncorrected": {
+          "A": 0.545454545455,
+          "B": 0.454545454545
+        }
+      }
+    ],
+    "identityFallbackRecords": 0,
+    "method": "prior-ratio reweighting with per-record renormalization",
+    "totals": {
+      "changedRecords": 48,
+      "hardCountAfter": {
+        "A": 21,
+        "B": 27
+      },
+      "hardCountBefore": {
+        "A": 21,
+        "B": 27
+      },
+      "interpretation": "总体量按逐行归一后的后验质量与硬计数汇总；不涉及目标真值，不表示准确率变化。",
+      "maxRecordDelta": 0.041252864782,
+      "posteriorMassAfter": {
+        "A": 23.378482255483,
+        "B": 24.621517744517
+      },
+      "posteriorMassBefore": {
+        "A": 21.818181818182,
+        "B": 26.181818181818
+      },
+      "posteriorMassDelta": {
+        "A": 1.560300437301,
+        "B": -1.560300437301
+      },
+      "unchangedRecords": 0
+    },
+    "zeroPriorClasses": [],
+    "zeroPriorHandling": "无零先验类别"
+  },
+  "decision": {
+    "guidance": "在标签迁移假设下可启用校正比例；仍建议保留常规抽样复核。",
+    "reasons": [],
+    "recommendation": "use-corrected-proportions",
+    "status": "estimated"
+  },
+  "diagnostics": [],
+  "estimation": {
+    "crossCheck": {
+      "converged": true,
+      "iterations": 42,
+      "maxAgreementGap": 1.2e-11,
+      "method": "expectation-maximization on marginal likelihood",
+      "prior": {
+        "A": 0.561904761893,
+        "B": 0.438095238107
+      },
+      "reason": null
+    },
+    "fit": {
+      "conditionalShiftLimit": 0.2,
+      "impliedMarginal": {
+        "A": 0.454545454545,
+        "B": 0.545454545455
+      },
+      "residual": 0,
+      "residualLimit": 0.05,
+      "reweightedKs": 0.030357142857,
+      "reweightedKsByScore": {
+        "scoreA": 0.030357142857,
+        "scoreB": 0.030357142857
+      }
+    },
+    "method": "constrained-nonnegative-simplex-least-squares",
+    "operator": {
+      "classSeparation": 0.272727272727,
+      "condition": 2.468171305554,
+      "conditionLimit": 1000,
+      "hardMatrix": [
+        [
+          0.8,
+          0
+        ],
+        [
+          0.2,
+          1
+        ]
+      ],
+      "kind": "soft-confusion",
+      "matrix": [
+        [
+          0.636363636364,
+          0.221343873518
+        ],
+        [
+          0.363636363636,
+          0.778656126482
+        ]
+      ],
+      "rank": 2
+    },
+    "prior": {
+      "A": 0.561904761905,
+      "B": 0.438095238095
+    },
+    "sourceCounts": {
+      "A": 25,
+      "B": 23
+    },
+    "sourcePriors": {
+      "A": 0.520833333333,
+      "B": 0.479166666667
+    },
+    "status": "estimated",
+    "target": {
+      "marginalHard": {
+        "A": 0.4375,
+        "B": 0.5625
+      },
+      "marginalSoft": {
+        "A": 0.454545454545,
+        "B": 0.545454545455
+      },
+      "support": {
+        "maxNearestSourceDistance": 0,
+        "outsideCount": 0,
+        "outsideFraction": 0,
+        "outsideIds": []
+      }
+    },
+    "unconstrained": {
+      "hasNegative": false,
+      "minimum": 0.438095238095,
+      "prior": {
+        "A": 0.561904761905,
+        "B": 0.438095238095
+      }
+    }
+  },
+  "inputFingerprint": "f5fad4e10f20c371567abeb6e22e4335865900ec91dab5786c38eb86672b8590",
+  "operation": "migration",
+  "partitions": {
+    "review": {
+      "count": 0,
+      "fingerprint": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "release": 60,
+      "usedForPostHoc": false,
+      "usedForTuning": false
+    },
+    "source": {
+      "count": 48,
+      "fingerprint": "40ce657357ff6e86b95176d2aac18efb5528d5e7b5a8366decf5d46a48f12a9c",
+      "invalidScores": 0,
+      "labelled": 48,
+      "unlabelled": 0
+    },
+    "target": {
+      "count": 48,
+      "fingerprint": "91be36dc5f0c0c5c80ed99557785f47bc78ffa3ae7b415a4173272df464596cb",
+      "invalidScores": 0,
+      "scored": 48
+    },
+    "training": {
+      "count": 0,
+      "fingerprint": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "reason": "训练分区与源验证、目标批次分开，不进入估计",
+      "used": false
+    }
+  },
+  "review": null,
+  "uncertainty": {
+    "intervals": {
+      "A": {
+        "lower": 0.365988398738,
+        "upper": 0.757379214912,
+        "width": 0.391390816173
+      },
+      "B": {
+        "lower": 0.242620785088,
+        "upper": 0.634011601262,
+        "width": 0.391390816173
+      }
+    },
+    "invalid": {
+      "empty-class": 0,
+      "infeasible": 0,
+      "rank-deficient": 0
+    },
+    "method": "源（按真值分层）与目标各自独立重采样；每次重采样重新估计算子与先验",
+    "replicates": 200,
+    "seed": 17,
+    "valid": 200,
+    "validFraction": 1
+  }
+}

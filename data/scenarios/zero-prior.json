@@ -1,0 +1,455 @@
+{
+  "version": 1,
+  "records": [
+    {
+      "id": "r0000",
+      "sample": "so000",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 1,
+      "scoreB": 0,
+      "visible": 1,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0001",
+      "sample": "so001",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 1,
+      "scoreB": 0,
+      "visible": 2,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0002",
+      "sample": "so002",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 1,
+      "scoreB": 0,
+      "visible": 3,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0003",
+      "sample": "so003",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 1,
+      "scoreB": 0,
+      "visible": 4,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0004",
+      "sample": "so004",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 1,
+      "scoreB": 0,
+      "visible": 1,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0005",
+      "sample": "so005",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 1,
+      "scoreB": 0,
+      "visible": 2,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0006",
+      "sample": "so006",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 1,
+      "scoreB": 0,
+      "visible": 3,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0007",
+      "sample": "so007",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 1,
+      "scoreB": 0,
+      "visible": 4,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0008",
+      "sample": "so008",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 1,
+      "scoreB": 0,
+      "visible": 1,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0009",
+      "sample": "so009",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0,
+      "scoreB": 1,
+      "visible": 1,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0010",
+      "sample": "so010",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0,
+      "scoreB": 1,
+      "visible": 1,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0011",
+      "sample": "so011",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0,
+      "scoreB": 1,
+      "visible": 2,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0012",
+      "sample": "so012",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0,
+      "scoreB": 1,
+      "visible": 3,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0013",
+      "sample": "so013",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0,
+      "scoreB": 1,
+      "visible": 4,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0014",
+      "sample": "so014",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0,
+      "scoreB": 1,
+      "visible": 1,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0015",
+      "sample": "so015",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0,
+      "scoreB": 1,
+      "visible": 2,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0016",
+      "sample": "so016",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0,
+      "scoreB": 1,
+      "visible": 3,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0017",
+      "sample": "so017",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0,
+      "scoreB": 1,
+      "visible": 4,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0018",
+      "sample": "so018",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 1,
+      "scoreB": 0,
+      "visible": 1,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0019",
+      "sample": "so019",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 1,
+      "scoreB": 0,
+      "visible": 1,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0020",
+      "sample": "ta020",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 1,
+      "scoreB": 0,
+      "visible": 5,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0021",
+      "sample": "ta021",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 1,
+      "scoreB": 0,
+      "visible": 6,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0022",
+      "sample": "ta022",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 1,
+      "scoreB": 0,
+      "visible": 7,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0023",
+      "sample": "ta023",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 1,
+      "scoreB": 0,
+      "visible": 8,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0024",
+      "sample": "ta024",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 1,
+      "scoreB": 0,
+      "visible": 5,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0025",
+      "sample": "ta025",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 1,
+      "scoreB": 0,
+      "visible": 6,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0026",
+      "sample": "ta026",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 1,
+      "scoreB": 0,
+      "visible": 7,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0027",
+      "sample": "ta027",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 1,
+      "scoreB": 0,
+      "visible": 8,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0028",
+      "sample": "ta028",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 1,
+      "scoreB": 0,
+      "visible": 5,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0029",
+      "sample": "ta029",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 1,
+      "scoreB": 0,
+      "visible": 6,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0030",
+      "sample": "ta030",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 1,
+      "scoreB": 0,
+      "visible": 7,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0031",
+      "sample": "ta031",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 1,
+      "scoreB": 0,
+      "visible": 8,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0032",
+      "sample": "ta032",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 1,
+      "scoreB": 0,
+      "visible": 5,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0033",
+      "sample": "ta033",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 1,
+      "scoreB": 0,
+      "visible": 6,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0034",
+      "sample": "ta034",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 1,
+      "scoreB": 0,
+      "visible": 7,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0035",
+      "sample": "ta035",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 1,
+      "scoreB": 0,
+      "visible": 8,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0036",
+      "sample": "ta036",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 1,
+      "scoreB": 0,
+      "visible": 5,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0037",
+      "sample": "ta037",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 1,
+      "scoreB": 0,
+      "visible": 6,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0038",
+      "sample": "ta038",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 1,
+      "scoreB": 0,
+      "visible": 7,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0039",
+      "sample": "ta039",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 1,
+      "scoreB": 0,
+      "visible": 8,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0040",
+      "sample": "ta040",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 1,
+      "scoreB": 0,
+      "visible": 5,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0041",
+      "sample": "ta041",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 1,
+      "scoreB": 0,
+      "visible": 6,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0042",
+      "sample": "ta042",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 1,
+      "scoreB": 0,
+      "visible": 7,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0043",
+      "sample": "ta043",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0,
+      "scoreB": 1,
+      "visible": 5,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0044",
+      "sample": "ta044",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0,
+      "scoreB": 1,
+      "visible": 5,
+      "classifier": "f1"
+    }
+  ]
+}

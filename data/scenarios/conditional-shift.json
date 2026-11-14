@@ -1,0 +1,1305 @@
+{
+  "version": 1,
+  "records": [
+    {
+      "id": "r0000",
+      "sample": "so000",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 1,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0001",
+      "sample": "so001",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 2,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0002",
+      "sample": "so002",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 3,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0003",
+      "sample": "so003",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 4,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0004",
+      "sample": "so004",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 1,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0005",
+      "sample": "so005",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 2,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0006",
+      "sample": "so006",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 3,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0007",
+      "sample": "so007",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 4,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0008",
+      "sample": "so008",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 1,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0009",
+      "sample": "so009",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 2,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0010",
+      "sample": "so010",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 3,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0011",
+      "sample": "so011",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 4,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0012",
+      "sample": "so012",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 1,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0013",
+      "sample": "so013",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 2,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0014",
+      "sample": "so014",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 3,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0015",
+      "sample": "so015",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 4,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0016",
+      "sample": "so016",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 1,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0017",
+      "sample": "so017",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 2,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0018",
+      "sample": "so018",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 3,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0019",
+      "sample": "so019",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 4,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0020",
+      "sample": "so020",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.6,
+      "scoreB": 0.4,
+      "visible": 1,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0021",
+      "sample": "so021",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.6,
+      "scoreB": 0.4,
+      "visible": 2,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0022",
+      "sample": "so022",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.6,
+      "scoreB": 0.4,
+      "visible": 3,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0023",
+      "sample": "so023",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.6,
+      "scoreB": 0.4,
+      "visible": 4,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0024",
+      "sample": "so024",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.6,
+      "scoreB": 0.4,
+      "visible": 1,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0025",
+      "sample": "so025",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.6,
+      "scoreB": 0.4,
+      "visible": 2,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0026",
+      "sample": "so026",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.6,
+      "scoreB": 0.4,
+      "visible": 3,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0027",
+      "sample": "so027",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.6,
+      "scoreB": 0.4,
+      "visible": 4,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0028",
+      "sample": "so028",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.6,
+      "scoreB": 0.4,
+      "visible": 1,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0029",
+      "sample": "so029",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.6,
+      "scoreB": 0.4,
+      "visible": 2,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0030",
+      "sample": "so030",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.6,
+      "scoreB": 0.4,
+      "visible": 3,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0031",
+      "sample": "so031",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.6,
+      "scoreB": 0.4,
+      "visible": 4,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0032",
+      "sample": "so032",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.6,
+      "scoreB": 0.4,
+      "visible": 1,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0033",
+      "sample": "so033",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.6,
+      "scoreB": 0.4,
+      "visible": 2,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0034",
+      "sample": "so034",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.6,
+      "scoreB": 0.4,
+      "visible": 3,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0035",
+      "sample": "so035",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.6,
+      "scoreB": 0.4,
+      "visible": 4,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0036",
+      "sample": "so036",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.6,
+      "scoreB": 0.4,
+      "visible": 1,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0037",
+      "sample": "so037",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.6,
+      "scoreB": 0.4,
+      "visible": 2,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0038",
+      "sample": "so038",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.6,
+      "scoreB": 0.4,
+      "visible": 3,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0039",
+      "sample": "so039",
+      "partition": "source",
+      "truth": "A",
+      "scoreA": 0.6,
+      "scoreB": 0.4,
+      "visible": 4,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0040",
+      "sample": "so040",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.4,
+      "scoreB": 0.6,
+      "visible": 1,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0041",
+      "sample": "so041",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.4,
+      "scoreB": 0.6,
+      "visible": 2,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0042",
+      "sample": "so042",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.4,
+      "scoreB": 0.6,
+      "visible": 3,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0043",
+      "sample": "so043",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.4,
+      "scoreB": 0.6,
+      "visible": 4,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0044",
+      "sample": "so044",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.4,
+      "scoreB": 0.6,
+      "visible": 1,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0045",
+      "sample": "so045",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.4,
+      "scoreB": 0.6,
+      "visible": 2,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0046",
+      "sample": "so046",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.4,
+      "scoreB": 0.6,
+      "visible": 3,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0047",
+      "sample": "so047",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.4,
+      "scoreB": 0.6,
+      "visible": 4,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0048",
+      "sample": "so048",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.4,
+      "scoreB": 0.6,
+      "visible": 1,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0049",
+      "sample": "so049",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.4,
+      "scoreB": 0.6,
+      "visible": 2,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0050",
+      "sample": "so050",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.4,
+      "scoreB": 0.6,
+      "visible": 3,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0051",
+      "sample": "so051",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.4,
+      "scoreB": 0.6,
+      "visible": 4,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0052",
+      "sample": "so052",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.4,
+      "scoreB": 0.6,
+      "visible": 1,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0053",
+      "sample": "so053",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.4,
+      "scoreB": 0.6,
+      "visible": 2,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0054",
+      "sample": "so054",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.4,
+      "scoreB": 0.6,
+      "visible": 3,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0055",
+      "sample": "so055",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.4,
+      "scoreB": 0.6,
+      "visible": 4,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0056",
+      "sample": "so056",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.4,
+      "scoreB": 0.6,
+      "visible": 1,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0057",
+      "sample": "so057",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.4,
+      "scoreB": 0.6,
+      "visible": 2,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0058",
+      "sample": "so058",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.4,
+      "scoreB": 0.6,
+      "visible": 3,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0059",
+      "sample": "so059",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.4,
+      "scoreB": 0.6,
+      "visible": 4,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0060",
+      "sample": "so060",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 1,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0061",
+      "sample": "so061",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 2,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0062",
+      "sample": "so062",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 3,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0063",
+      "sample": "so063",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 4,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0064",
+      "sample": "so064",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 1,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0065",
+      "sample": "so065",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 2,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0066",
+      "sample": "so066",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 3,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0067",
+      "sample": "so067",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 4,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0068",
+      "sample": "so068",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 1,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0069",
+      "sample": "so069",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 2,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0070",
+      "sample": "so070",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 3,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0071",
+      "sample": "so071",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 4,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0072",
+      "sample": "so072",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 1,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0073",
+      "sample": "so073",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 2,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0074",
+      "sample": "so074",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 3,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0075",
+      "sample": "so075",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 4,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0076",
+      "sample": "so076",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 1,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0077",
+      "sample": "so077",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 2,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0078",
+      "sample": "so078",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 3,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0079",
+      "sample": "so079",
+      "partition": "source",
+      "truth": "B",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 4,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0080",
+      "sample": "ta080",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 5,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0081",
+      "sample": "ta081",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 6,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0082",
+      "sample": "ta082",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 7,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0083",
+      "sample": "ta083",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 8,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0084",
+      "sample": "ta084",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 5,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0085",
+      "sample": "ta085",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 6,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0086",
+      "sample": "ta086",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 7,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0087",
+      "sample": "ta087",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 8,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0088",
+      "sample": "ta088",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 5,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0089",
+      "sample": "ta089",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 6,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0090",
+      "sample": "ta090",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 7,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0091",
+      "sample": "ta091",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 8,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0092",
+      "sample": "ta092",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 5,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0093",
+      "sample": "ta093",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 6,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0094",
+      "sample": "ta094",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 7,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0095",
+      "sample": "ta095",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 8,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0096",
+      "sample": "ta096",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 5,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0097",
+      "sample": "ta097",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 6,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0098",
+      "sample": "ta098",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 7,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0099",
+      "sample": "ta099",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 8,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0100",
+      "sample": "ta100",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 5,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0101",
+      "sample": "ta101",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 6,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0102",
+      "sample": "ta102",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 7,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0103",
+      "sample": "ta103",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.8,
+      "scoreB": 0.19999999999999996,
+      "visible": 8,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0104",
+      "sample": "ta104",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.6,
+      "scoreB": 0.4,
+      "visible": 5,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0105",
+      "sample": "ta105",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.4,
+      "scoreB": 0.6,
+      "visible": 5,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0106",
+      "sample": "ta106",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 5,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0107",
+      "sample": "ta107",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 6,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0108",
+      "sample": "ta108",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 7,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0109",
+      "sample": "ta109",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 8,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0110",
+      "sample": "ta110",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 5,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0111",
+      "sample": "ta111",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 6,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0112",
+      "sample": "ta112",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 7,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0113",
+      "sample": "ta113",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 8,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0114",
+      "sample": "ta114",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 5,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0115",
+      "sample": "ta115",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 6,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0116",
+      "sample": "ta116",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 7,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0117",
+      "sample": "ta117",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 8,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0118",
+      "sample": "ta118",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 5,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0119",
+      "sample": "ta119",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 6,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0120",
+      "sample": "ta120",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 7,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0121",
+      "sample": "ta121",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 8,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0122",
+      "sample": "ta122",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 5,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0123",
+      "sample": "ta123",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 6,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0124",
+      "sample": "ta124",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 7,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0125",
+      "sample": "ta125",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 8,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0126",
+      "sample": "ta126",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 5,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0127",
+      "sample": "ta127",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 6,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0128",
+      "sample": "ta128",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 7,
+      "classifier": "f1"
+    },
+    {
+      "id": "r0129",
+      "sample": "ta129",
+      "partition": "target",
+      "truth": "",
+      "scoreA": 0.2,
+      "scoreB": 0.8,
+      "visible": 8,
+      "classifier": "f1"
+    }
+  ]
+}

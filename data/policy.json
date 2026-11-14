@@ -6,5 +6,36 @@
   "asOf": 20,
   "classifier": "f1",
   "conditionLimit": 1000,
-  "seed": 17
+  "seed": 17,
+  "reviewRelease": 60,
+  "partitionRoles": {
+    "training": [
+      "training"
+    ],
+    "source": [
+      "source"
+    ],
+    "target": [
+      "target"
+    ],
+    "review": [
+      "review"
+    ]
+  },
+  "shift": {
+    "scoreSumTolerance": 1e-6,
+    "scoreRangeTolerance": 1e-9,
+    "outsideSupportTolerance": 1e-9,
+    "supportOutsideLimit": 0.05,
+    "priorResidualLimit": 0.05,
+    "conditionalShiftLimit": 0.2,
+    "minSourcePerClass": 5,
+    "minSourceTotal": 20,
+    "minTargetTotal": 20,
+    "bootstrapReplicates": 200,
+    "bootstrapMinValidFraction": 0.5,
+    "confidence": 0.95,
+    "priorIntervalWidthLimit": 0.5,
+    "zeroPriorTolerance": 1e-9
+  }
 }
